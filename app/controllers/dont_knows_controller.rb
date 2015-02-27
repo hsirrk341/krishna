@@ -1,0 +1,2 @@
+class DontKnowsController < ApplicationController
+end
